@@ -253,7 +253,7 @@ function updateCartCount(){
     const totalItems = cart.reduce((total,item)=>{
             return total + item.quantity;
         },0)
-        cartCount.textContent = "Cart : " , totalItems;
+        cartCount.textContent = "Cart : " + totalItems;
 }
 
 function applyFilters(){
