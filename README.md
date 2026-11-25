@@ -1,7 +1,7 @@
 ## Product-Catalog
 -> Responsive Product Catalog built with HTML, CSS and JavaScript. Currently extending it with an Admin Panel and Local Storage functionality.
 
-=> Live Demo
+# Live Demo
 --> https://salman-khan-py.github.io/Product-Catalog/
 
 => Features
