@@ -1,10 +1,10 @@
-## Product-Catalog
+# Product-Catalog
 -> Responsive Product Catalog built with HTML, CSS and JavaScript. Currently extending it with an Admin Panel and Local Storage functionality.
 
 # Live Demo
 --> https://salman-khan-py.github.io/Product-Catalog/
 
-=> Features
+# Features
 -> Dynamic product cards
 -> Product search
 -> Category filtering
@@ -14,15 +14,15 @@
 -? Quantity management
 -> Responsive design
 
-=> Technologies Used
+# Technologies Used
 -> HTML5
 -> CSS3
 -> JavaScript
 -> DOM Manipulation
 -> Local Storage (Admin Panel development)
 
-=> Current Development
+# Current Development
 -> I am currently extending this project with an Admin Panel for product management.
 
-=> Developer
+# Developer
 -> Developed as a practical project to improve my frontend web development skills.
